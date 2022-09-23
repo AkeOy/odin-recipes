@@ -1,0 +1,16 @@
+.collage {
+    width: 350px;
+}
+
+div {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: medium;
+font-stretch: extra-condensed;
+color: aquamarine;
+font-style: oblique;}
+
+*{background-color: rgb(48, 48, 48);}
+
+.button  {background-color: aquamarine;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+font-size: 20px;}
