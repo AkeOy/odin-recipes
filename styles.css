@@ -1,5 +1,9 @@
 .collage {
     width: 350px;
+    border: 2px solid white;
+    padding:0.125em;
+    margin: 1.75em;
+    border-radius: 10px;
 }
 
 div {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -8,9 +12,20 @@ font-stretch: extra-condensed;
 color: aquamarine;
 font-style: oblique;}
 
+#flavors {
+    border: 2px solid white;
+    padding: 0.15em;
+    margin: 0.5em;
+    border-radius: 10px
+}
+
 *{background-color: rgb(48, 48, 48);}
 
-.button  {background-color: aquamarine;
+button {border-radius: .25em;
+    background-color: aquamarine;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-weight: bold;
-font-size: 20px;}
+font-size: 20px;
+margin-left: 2.0em;
+border: 2px solid white;
+padding: 0.15em;}
